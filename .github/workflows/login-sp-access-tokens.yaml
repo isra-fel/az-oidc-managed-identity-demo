@@ -1,4 +1,4 @@
-name: Test tokens - SP
+name: Test tokens - SP (fort)
 on:
   workflow_dispatch:
   push:
